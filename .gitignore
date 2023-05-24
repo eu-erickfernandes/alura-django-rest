@@ -1,1 +1,3 @@
 /venv
+/escola/migrations
+db.sqlite3
